@@ -18,4 +18,4 @@ This is a basic temperature conversion program. Users can choose whether to conv
 ### Running the Program
 To run the temperature conversion program, execute the following command:
 ```bash
-python temperature_conversion.py
+python temperatureConversion.py
